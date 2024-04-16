@@ -12,4 +12,15 @@
 ### Git stash
 - before popping or applying stash, you should commit any changes you made to the same files you stashed...
 
-This change is here in main.
+
+
+### Branching 
+
+bottom left, there is a button for creating branches. I am writing this in dev branch.
+After you create the branch it still point to the same point as main.
+
+To avoid merge conflicts, just use new files for your new features XD
+
+This change is here in main
+
+
