@@ -19,4 +19,6 @@
 bottom left, there is a button for creating branches. I am writing this in dev branch.
 After you create the branch it still point to the same point as main.
 
+To avoid merge conflicts, just use new files for your new features XD
+
 
