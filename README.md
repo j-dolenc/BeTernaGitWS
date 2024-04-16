@@ -13,6 +13,9 @@
 - before popping or applying stash, you should commit any changes you made to the same files you stashed...
 
 
+## Is this a merge error i wonder
+to be or not to be that is the question.
+
 
 ### Branching 
 
@@ -21,9 +24,14 @@ After you create the branch it still point to the same point as main.
 
 To avoid merge conflicts, just use new files for your new features XD
 
+or perhaps this is an error?
+
 This change is here in main
 
 ## Change in main by Petar Ristic
 This is change from Petar 
+
+## How about this
+Is this ok?
 
 
