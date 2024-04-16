@@ -13,3 +13,9 @@
 - before popping or applying stash, you should commit any changes you made to the same files you stashed...
 
 
+
+### Branching 
+
+bottom left, there is a button for creating branches. I am writing this in dev branch
+
+
